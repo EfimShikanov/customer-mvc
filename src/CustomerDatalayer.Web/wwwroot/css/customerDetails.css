@@ -1,0 +1,18 @@
+﻿.customersDetails {
+    display: flex;
+    flex-direction: column;
+}
+
+.customersDetails__item {
+    display: flex;
+    flex-direction: column;
+}
+
+.customersDetails__label {
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+.customersDetails__input {
+    
+}

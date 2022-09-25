@@ -1,0 +1,34 @@
+﻿.customers-list {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background: #eeeeee;
+    border-radius: 4px;
+}
+
+.customers-list__header {
+    display: flex;
+    background: #c2c2c2;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+
+.customers-list__header > div {
+    word-wrap: normal;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+.customers-list__row {
+    display: flex;
+    padding: 10px;
+}
+
+.customers-list__row:hover {
+    background: #d7d7d7;
+    border-radius: 4px;
+}
+
+.customers-list__cell {
+    width: 18%;
+}

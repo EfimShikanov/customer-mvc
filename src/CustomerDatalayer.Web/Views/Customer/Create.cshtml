@@ -1,0 +1,42 @@
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model CustomerDatalayer.Entities.Customer
+@{
+    ViewBag.Title = "New customer";
+}
+@{
+    
+}
+<h3>Create new customer</h3>
+
+<form class="w-50" asp-action="Create">
+    <div class="mb-3">
+        <label asp-for="FirstName" class="form-label"></label>
+        @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" }})
+    </div>
+    <div class="mb-3">
+        <label asp-for="LastName" class="form-label"></label>
+        @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" }})
+        @Html.ValidationMessageFor(model => model.LastName, "", new {@class = "text-danger"})
+    </div>
+    <div class="mb-3">
+        <label asp-for="PhoneNumber" class="form-label"></label>
+        @Html.EditorFor(model => model.PhoneNumber, new { htmlAttributes = new { @class = "form-control" }})
+        @Html.ValidationMessageFor(model => model.PhoneNumber, "", new { @class = "text-danger"})
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" }})
+        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger"})
+    </div>
+    <div class="mb-3">
+        <label asp-for="TotalPurchasesAmount" class="form-label"></label>
+        @Html.EditorFor(model => model.TotalPurchasesAmount, new { htmlAttributes = new { @class = "form-control" }})
+        @Html.ValidationMessageFor(model => model.TotalPurchasesAmount, "", new { @class = "text-danger"})
+    </div>
+    <input type="submit" value="Create" class="btn btn-primary">
+</form>
+
+@section Scripts
+{
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
