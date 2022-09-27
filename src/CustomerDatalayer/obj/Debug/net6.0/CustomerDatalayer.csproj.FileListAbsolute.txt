@@ -10,3 +10,17 @@ C:\Users\Efim\RiderProjects\customer-mvc\CustomerDatalayer\obj\Debug\net6.0\Cust
 C:\Users\Efim\RiderProjects\customer-mvc\CustomerDatalayer\obj\Debug\net6.0\refint\CustomerDatalayer.dll
 C:\Users\Efim\RiderProjects\customer-mvc\CustomerDatalayer\obj\Debug\net6.0\CustomerDatalayer.pdb
 C:\Users\Efim\RiderProjects\customer-mvc\CustomerDatalayer\obj\Debug\net6.0\ref\CustomerDatalayer.dll
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\obj\Debug\net6.0\CustomerDatalayer.csproj.AssemblyReference.cache
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\obj\Debug\net6.0\CustomerDatalayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\obj\Debug\net6.0\CustomerDatalayer.AssemblyInfoInputs.cache
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\obj\Debug\net6.0\CustomerDatalayer.AssemblyInfo.cs
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\obj\Debug\net6.0\CustomerDatalayer.csproj.CoreCompileInputs.cache
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\obj\Debug\net6.0\CustomerDatalayer.dll
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\obj\Debug\net6.0\refint\CustomerDatalayer.dll
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\obj\Debug\net6.0\CustomerDatalayer.pdb
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\bin\Debug\net6.0\CustomerDatalayer.deps.json
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\bin\Debug\net6.0\CustomerDatalayer.runtimeconfig.json
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\bin\Debug\net6.0\CustomerDatalayer.dll
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\bin\Debug\net6.0\CustomerDatalayer.pdb
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\obj\Debug\net6.0\CustomerDatalayer.genruntimeconfig.cache
+C:\Users\Efim\RiderProjects\customer-mvc\src\CustomerDatalayer\obj\Debug\net6.0\ref\CustomerDatalayer.dll
